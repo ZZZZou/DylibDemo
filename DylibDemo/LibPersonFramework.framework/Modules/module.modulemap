@@ -1,0 +1,6 @@
+framework module LibPersonFramework {
+  umbrella header "LibPersonFramework.h"
+
+  export *
+  module * { export * }
+}
